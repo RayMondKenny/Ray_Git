@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-runoob.com
-<<<<<<< HEAD
-=======
-runoob2.com
->>>>>>> branchtest
-=======
-Run3
->>>>>>> bbc
